@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gradio based Webui for Tensorflow Stable Diffusion Model #
 
 TF Model Source Code: https://github.com/divamgupta/stable-diffusion-tensorflow
@@ -16,3 +17,6 @@ TF Model Source Code: https://github.com/divamgupta/stable-diffusion-tensorflow
 </div> 
 
 
+=======
+# StableDiffusion
+>>>>>>> 6e78922738fbcec1aad31294befccc03c2ba6082
